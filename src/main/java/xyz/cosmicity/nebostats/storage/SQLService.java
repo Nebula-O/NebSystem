@@ -1,3 +1,8 @@
+/*
+© Copyright Nick Williams 2021.
+Credit should be given to the original author where this code is used.
+ */
+
 package xyz.cosmicity.nebostats.storage;
 
 import co.aikar.idb.*;
