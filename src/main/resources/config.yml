@@ -1,0 +1,11 @@
+mysql:
+  host: "172.18.0.1:3306"
+  database: "database name"
+  user: "user"
+  pass: "password"
+
+discord:
+  token: ""
+  guild-id: ""
+  mod-role-id: ""
+  dm-overflow-channel-id: ""

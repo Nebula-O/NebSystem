@@ -1,0 +1,5 @@
+name: NeboStats
+version: ${project.version}
+main: xyz.cosmicity.nebostats.NeboStats
+api-version: 1.16
+authors: [ Nebula_1, CosmicSilence, DistantNeb ]
